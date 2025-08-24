@@ -1,11 +1,19 @@
 package com.example.muvis4kfullhd.model;
 
+import lombok.Getter;
+import lombok.Setter;
+
 public class peliculas {
     private int id;
+
     private String titulo;
+
     private int anio;
+
     private String director;
+
     private String genero;
+
     private String sinopsis;
 
     // Constructor vacío
@@ -21,7 +29,6 @@ public class peliculas {
         this.sinopsis = sinopsis;
     }
 
-    // Getters y Setters
     public int getId() {
         return id;
     }
