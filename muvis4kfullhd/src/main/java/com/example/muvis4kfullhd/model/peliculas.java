@@ -1,7 +1,5 @@
 package com.example.muvis4kfullhd.model;
 
-import lombok.Getter;
-import lombok.Setter;
 
 public class peliculas {
     private int id;
