@@ -1,7 +1,7 @@
 package com.example.muvis4kfullhd.model;
 
 
-public class peliculas {
+public class Pelicula {
     private int id;
 
     private String titulo;
@@ -15,10 +15,10 @@ public class peliculas {
     private String sinopsis;
 
     // Constructor vacío
-    public peliculas() {}
+    public Pelicula() {}
 
     // Constructor completo
-    public peliculas(int id, String titulo, int anio, String director, String genero, String sinopsis) {
+    public Pelicula(int id, String titulo, int anio, String director, String genero, String sinopsis) {
         this.id = id;
         this.titulo = titulo;
         this.anio = anio;
