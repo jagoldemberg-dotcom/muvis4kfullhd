@@ -292,4 +292,4 @@ Este proyecto es de uso académico. Para contribuir:
 ---
 
 **Versión**: 1.0.0  
-**Última actualización**: Agosto 2024
+**Última actualización**: Agosto 2025
